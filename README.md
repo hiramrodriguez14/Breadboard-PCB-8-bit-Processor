@@ -6,7 +6,7 @@ A simple **8-bit SAP-1 style computer** built entirely with **TTL logic chips**,
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/shorts/W9d1hmj4LQU))
+[![Demo Video](https://www.youtube.com/shorts/W9d1hmj4LQU))
 
 ---
 
