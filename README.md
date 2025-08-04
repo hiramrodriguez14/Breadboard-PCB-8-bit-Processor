@@ -13,7 +13,7 @@ A simple **8-bit SAP-1 style computer** built entirely with **TTL logic chips**,
 
 ## Project Overview
 
-This project recreates the classic SAP-1 computer architecture with enhancements. The computer runs at clock speeds up to 500 kHz and includes an 8-bit ALU capable of addition, subtraction, and more complex operations like multiplication and division through software routines. It features a 4-bit program counter and memory address register, 16 bytes of memory with 8-bit words, two 8-bit general-purpose registers, an 8-bit data bus, and an output module with two 4-bit registers. The control unit is implemented using microcode stored in EEPROMs with 17 control flags.
+This project recreates the classic SAP-1 computer architecture with enhancements. The computer runs at clock speeds up to 500 Hz and includes an 8-bit ALU capable of addition, subtraction, and more complex operations like multiplication and division through software routines. It features a 4-bit program counter and memory address register, 16 bytes of memory with 8-bit words, two 8-bit general-purpose registers, an 8-bit data bus, and an output module with two 4-bit registers. The control unit is implemented using microcode stored in EEPROMs with 17 control flags.
 
 ---
 
