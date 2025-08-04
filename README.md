@@ -26,7 +26,7 @@ This project recreates the classic SAP-1 computer architecture with enhancements
 - Two 8-bit general-purpose registers  
 - 8-bit data bus  
 - Output module with two 4-bit registers that can display signed and unsigned values via an instruction  
-- Control Unit implemented with microcode EEPROMs using a total of 17 control flags  
+- Control Unit implemented with microcode EEPROMs using a total of 16 control flags  
 - Built entirely with TTL chips  
 
 ---
