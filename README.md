@@ -19,7 +19,7 @@ This project recreates the classic SAP-1 computer architecture with enhancements
 
 ## General Features
 
-- Clock speed up to 500 kHz  
+- Clock speed up to 500 Hz  
 - 8-bit ALU capable of addition, subtraction, multiplication, and division (the latter two via software)  
 - 4-bit Program Counter (PC) and Memory Address Register (MAR)  
 - 32 bytes of memory, 8 bits per word  
